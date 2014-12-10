@@ -44,3 +44,4 @@ Alguns dos vários links apresentados na "Terra do Sol":
       * [Tutorial parte 1](https://www.youtube.com/watch?v=Y41E2kabT9g&list=UUozHTIfI0DW9VGSJuqKeQug)
       * [Tutorial parte 2](https://www.youtube.com/watch?v=psC_PPdkm7E&list=UUozHTIfI0DW9VGSJuqKeQug)
   * [Cluster com instâncias standalone + mod_cluster](https://twitter.com/wildflyas/status/501445758940635136)
+* [Configuração para acesso com o jconsole](https://access.redhat.com/solutions/149973)
