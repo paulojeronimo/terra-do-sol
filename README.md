@@ -15,6 +15,7 @@ Alguns dos vários links apresentados na "Terra do Sol":
     * [Designing Java EE Applications in the Age of CDI](https://www.youtube.com/watch?v=MwKlASN5g2s)
       * [Exemplos](https://github.com/mgraciano/javaone-2012)
 * Java EE samples build from scratch
+  * [Ticket Monster](http://www.jboss.org/ticket-monster/)
   * YouTube
     * [Today's Rapid Java EE Development: Live Coding from Scratch to Deployment](https://www.youtube.com/watch?v=Jdkv4CbdO2E)
     * [Real-World Java EE 6 Tutorial](https://www.youtube.com/watch?v=8E3Ry-6xqj4)
