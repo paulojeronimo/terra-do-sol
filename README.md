@@ -1,4 +1,4 @@
-Alguns dos vários assuntos apresentados na "Terra do Sol":
+Alguns dos vários links apresentados na "Terra do Sol":
 
 * [Certificação RHCJD](http://www.redhat.com/en/services/certification/rhcjd)
   * [Detalhes do exame](http://www.redhat.com/en/services/training/ex225-red-hat-jboss-certified-developer-exam)
