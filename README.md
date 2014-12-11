@@ -1,4 +1,4 @@
-Alguns dos vários links apresentados na "Terra do Sol":
+Links de interesse da galera ([1](instagram.com/p/wcHpmeNf-B/), [2](http://instagram.com/p/wcHhalNf9D/), [3](http://instagram.com/p/wcHN9Htf7O/)) da "Terra do Sol":
 
 * [Certificação RHCJD](http://www.redhat.com/en/services/certification/rhcjd)
   * [Detalhes do exame](http://www.redhat.com/en/services/training/ex225-red-hat-jboss-certified-developer-exam)
@@ -24,6 +24,9 @@ Alguns dos vários links apresentados na "Terra do Sol":
   * YouTube
     * [Case Studies in Testable Java EE Development](https://www.youtube.com/watch?v=WOFUH_R0sAg)
 * [Certificação RHCJA](http://www.redhat.com/en/services/certification/rhcsa)
+* Red Hat Taste of Training (YouTube)
+  * [Red Hat Taste of Training: Standalone mode vs. domain mode](https://www.youtube.com/watch?v=YMkCOpf38Vc)
+  * [Red Hat Taste of Training: Using the domain controller to support rolling upgrades in your cluster](https://www.youtube.com/watch?v=ieJQ7TZdEf4)
 * [Livro - JBoss em Produção](http://github.com/paulojeronimo/livro-jboss)
 * Tutoriais de Git
   * [Try git](https://www.codeschool.com/courses/try-git)
