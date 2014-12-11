@@ -1,4 +1,4 @@
-Links de interesse da galera ([1](instagram.com/p/wcHpmeNf-B/), [2](http://instagram.com/p/wcHhalNf9D/), [3](http://instagram.com/p/wcHN9Htf7O/)) da "Terra do Sol":
+Links de interesse da galera ([1](http://instagram.com/p/wcHpmeNf-B/), [2](http://instagram.com/p/wcHhalNf9D/), [3](http://instagram.com/p/wcHN9Htf7O/)) da "Terra do Sol":
 
 * [Certificação RHCJD](http://www.redhat.com/en/services/certification/rhcjd)
   * [Detalhes do exame](http://www.redhat.com/en/services/training/ex225-red-hat-jboss-certified-developer-exam)
